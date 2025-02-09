@@ -52,7 +52,6 @@
 # Other
 ![other3.jpeg](./other/other3.jpeg)
 ![other5.png](./other/other5.png)
-![other6.jpg](./other/other6.jpg)
 ![other7.png](./other/other7.png)
 ![other8.png](./other/other8.png)
 
