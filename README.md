@@ -105,3 +105,10 @@
 ![solid22.jpg](./solid/solid22.jpg)
 ![solid23.png](./solid/solid23.png)
 
+# Illustration
+![illustration1.png](./illustration/illustration1.png)
+![illustration2.png](./illustration/illustration2.png)
+
+# Vertical
+![vertical1.jpg](./vertical/vertical1.jpg)
+![vertical2.png](./vertical/vertical2.png)
