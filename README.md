@@ -80,6 +80,7 @@
 ![realistic5.jpg](./realistic/realistic5.jpg)
 ![realistic6.jpg](./realistic/realistic6.jpg)
 ![realistic7.jpg](./realistic/realistic7.jpg)
+![realistic8.jpg](./realistic/realistic8.jpg)
 
 # Solid
 ![solid1.png](./solid/solid1.png)
