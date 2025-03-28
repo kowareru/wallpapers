@@ -53,6 +53,7 @@
 ![material10.png](./material/material10.png)
 
 # Other
+![other1.png](./other/other1.png)
 ![other3.jpeg](./other/other3.jpeg)
 ![other5.png](./other/other5.png)
 ![other7.png](./other/other7.png)
@@ -91,7 +92,6 @@
 ![solid5.jpg](./solid/solid5.jpg)
 ![solid6.png](./solid/solid6.png)
 ![solid7.png](./solid/solid7.png)
-![solid8.png](./solid/solid8.png)
 ![solid9.png](./solid/solid9.png)
 ![solid10.png](./solid/solid10.png)
 ![solid11.png](./solid/solid11.png)
